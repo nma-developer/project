@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace 名古屋市医師会会員管理システム
 {
-    public partial class Form1 : Form
+    public partial class BaseForm : Form
     {
-        public Form1()
+        public BaseForm()
         {
             InitializeComponent();
         }

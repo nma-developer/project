@@ -16,7 +16,7 @@ namespace 名古屋市医師会会員管理システム
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new BaseForm());
         }
     }
 }

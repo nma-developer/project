@@ -1,6 +1,6 @@
 ﻿namespace 名古屋市医師会会員管理システム
 {
-    partial class Form1
+    partial class BaseForm
     {
         /// <summary>
         /// 必要なデザイナー変数です。
