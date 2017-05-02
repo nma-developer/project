@@ -16,5 +16,10 @@ namespace 名古屋市医師会会員管理システム
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
