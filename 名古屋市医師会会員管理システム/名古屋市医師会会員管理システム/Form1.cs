@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace 名古屋市医師会会員管理システム
 {
-    public partial class BaseForm : Form
+    public partial class Form1 : Form
     {
-        public BaseForm()
+        public Form1()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void 終了XToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            this.Close();
         }
     }
 }
