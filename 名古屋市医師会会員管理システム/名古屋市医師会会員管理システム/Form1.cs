@@ -16,5 +16,18 @@ namespace 名古屋市医師会会員管理システム
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
+=======
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("ｷｬｰﾘｭｰｻｰﾝ");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("ﾅｲﾄｷﾀ‼これで勝つる！！！");
+        }
+>>>>>>> origin/master
     }
 }
