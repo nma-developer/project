@@ -24,7 +24,7 @@ namespace 名古屋市医師会会員管理システム
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ﾅｲﾄｷﾀ‼これで勝つる！！");
+            MessageBox.Show("ﾅｲﾄｷﾀ‼これで勝つる！！！");
         }
     }
 }
